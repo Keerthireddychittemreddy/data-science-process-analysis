@@ -1,4 +1,3 @@
-# data-science-process-analysis
 Traffic-Accidents-analysis-in-india-
 Traffic Accident Analysis in India
 
@@ -36,8 +35,8 @@ Data Availability: Lack of publicly accessible, high-quality accident data Data 
 10.Conclusion
 This project provides insights into traffic accident trends in India using data-driven approaches and EDA methodologies learned in the FDSA course. Future work can involve integrating real-time data for dynamic accident prediction and prevention models.
 
-Contributing
+11.Contributing
 Contributions are welcome! Please raise an issue or submit a pull request.
 
-License
+12.License
 This project is licensed under the MIT License.
